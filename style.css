@@ -5,3 +5,7 @@ header {
 body {
   margin: 0;
 }
+section {
+  padding: 50px;
+  background-color: grey;
+}
